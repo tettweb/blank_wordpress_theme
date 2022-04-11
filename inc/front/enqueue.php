@@ -1,5 +1,7 @@
 <?php
 
+// Please run "npm i" on the root of this theme
+
 function lmc_enqueue(){
   $uri = get_theme_file_uri();
 
